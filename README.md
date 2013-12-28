@@ -45,7 +45,9 @@ But you can try it if, for example, you want to swap the Control and
 Caps Lock keys rather than disabling Caps Lock altogether; I don't
 have a `.reg` file for that.
 
-I do not remember where I originally got this information.
+I do not remember where I originally got this information, or in
+particular where I got the `nocapslock.reg` file.  I'll update this
+with a proper attribution if I'm able to track it down.
 
 The key you need to modify is:
 
