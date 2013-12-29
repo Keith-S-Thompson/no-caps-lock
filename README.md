@@ -3,6 +3,10 @@ no-caps-lock
 
 Disabling Caps Lock for Microsoft Windows
 
+See also my recent blog post [Where should the control key
+be?](http://the-flat-trantor-society.blogspot.com/2013/12/where-should-control-key-be.html),
+which covers Windows and other operating systems (mostly Linux).
+
 Modern computer keyboards almost universally place the Caps Lock key
 to the left of the **A** key, and the Control key down in the lower
 left corner, below Shift.
