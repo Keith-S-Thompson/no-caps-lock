@@ -36,11 +36,11 @@ computer unless you're sure that *all* the other users are ok with
 this non-standard layout.
 
 **DISCLAIMER :** I've used the `nocapslock.reg` file on a number of
-Windows systems over the years, from Windows 98 or so (I'm not sure)
-up to Windows 8.  I've never had a problem with it, but I can accept
-no responsibility for any damage it may do.  If you use this, you
-will be modifying your system registry, which has the potential to
-do Very Bad Things to your system.
+Windows systems over the years, from Windows 98 or so up to Windows 10.
+I've never had a problem with it, but I can accept no responsibility
+for any damage it may do.  If you use this, you will be modifying
+your system registry, which has the potential to do Very Bad Things
+to your system.
 
 You can also do the same thing by manually modifying the registry using
 `regedit.exe`.  I do not advise this approach, since manually modifying
