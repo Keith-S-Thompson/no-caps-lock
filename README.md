@@ -60,7 +60,7 @@ The key you need to modify is:
 
 (Note: it's "`Keyboard Layout`", *not* "`Keyboard Layouts`".)
 
-- To swap left control and caps lock:
+To swap left control and caps lock:
 
     Data = 00000000 00000000 0300000000 3A001D00 1D003A00 00000000
     0x00000000 Header: Version. Set to all zeroes. 
@@ -70,7 +70,7 @@ The key you need to modify is:
     0x003A001D CAPS LOCK --> Left CTRL key (0x3A --> 0x1D). 
     0x00000000 Null terminator. 
 
-- To map caps lock to control (no caps lock):
+To map caps lock to control (no caps lock):
 
     Data = 00000000 00000000 0200000000 1D003A00 00000000
     0x00000000 Header: Version. Set to all zeroes. 
